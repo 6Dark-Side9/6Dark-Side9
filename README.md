@@ -25,7 +25,7 @@
 	<tr>
 		<td width="1200px">
 	    <h3>Apps :</h3>
-        <img align="right" src="https://skillicons.dev/icons?i=vscode,visualstudio,figma,git" draggable="false">
+        <img align="right" src="https://skillicons.dev/icons?i=vscode,visualstudio,figma,git,photoshop" draggable="false">
 		</td>
 		<td width="1200px">
 	    <h3>Platforms :</h3>
