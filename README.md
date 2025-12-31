@@ -9,14 +9,15 @@
 💻 Im Front-end Developer<br>
 🎸 I Like Phonk And Rap Music's<br>
  </p>
- <img src="https://komarev.com/ghpvc/?username=6Dark-Side9&color=blue&label=Profile Views" draggable="false"> <a href="https://reymit.ir/black-shadow"> <img src="https://img.shields.io/badge/Donate-104098.svg?style=&logo=paypal" draggable="false"></a>
+ <!-- <img src="https://komarev.com/ghpvc/?username=6Dark-Side9&color=blue&label=Profile Views" draggable="false"> <a href="https://reymit.ir/black-shadow">  -->
+	 <img src="https://img.shields.io/badge/Donate-104098.svg?style=&logo=paypal" draggable="false"></a>
 
 
 </td>
-	<!-- <tr>
+	<tr>
 	<td width="1200px">
 	<h3>Programming languages</h3>
-	<img align="right" src="https://skillicons.dev/icons?i=html,css,js,vue,tailwind,nodejs" draggable="false"></td> -->
+	<img align="right" src="https://skillicons.dev/icons?i=html,css,js,vue,tailwind,nodejs" draggable="false"></td>
 	</tr>
 	<table>   
    
