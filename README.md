@@ -13,10 +13,10 @@
 
 
 </td>
-	<tr>
+	<!-- <tr>
 	<td width="1200px">
 	<h3>Programming languages</h3>
-	<img align="right" src="https://skillicons.dev/icons?i=html,css,js,vue,tailwind,nodejs" draggable="false"></td>
+	<img align="right" src="https://skillicons.dev/icons?i=html,css,js,vue,tailwind,nodejs" draggable="false"></td> -->
 	</tr>
 	<table>   
    
